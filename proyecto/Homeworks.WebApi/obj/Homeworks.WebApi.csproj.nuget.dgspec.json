@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.WebApi\\Homeworks.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\Homeworks.BusinessLogic.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\Homeworks.BusinessLogic.Interface.csproj",
+        "projectName": "Homeworks.BusinessLogic.Interface",
+        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\Homeworks.BusinessLogic.Interface.csproj",
+        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj",
+        "projectName": "Homeworks.BusinessLogic",
+        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\Homeworks.BusinessLogic.Interface.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\Homeworks.BusinessLogic.Interface.csproj"
+              },
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj"
+              },
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
+        "projectName": "Homeworks.DataAccess.Interface",
+        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
+        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
+        "projectName": "Homeworks.DataAccess",
+        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj"
+              },
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
+        "projectName": "Homeworks.Domain",
+        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
+        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.WebApi\\Homeworks.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.WebApi\\Homeworks.WebApi.csproj",
+        "projectName": "Homeworks.WebApi",
+        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.WebApi\\Homeworks.WebApi.csproj",
+        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\Homeworks.BusinessLogic.Interface.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic.Interface\\Homeworks.BusinessLogic.Interface.csproj"
+              },
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj"
+              },
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj"
+              },
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj"
+              },
+              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\bin\Debug\net6.0\Homeworks.BusinessLogic.Interface.deps.json
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\bin\Debug\net6.0\Homeworks.BusinessLogic.Interface.dll
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\bin\Debug\net6.0\Homeworks.BusinessLogic.Interface.pdb
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.csproj.AssemblyReference.cache
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.AssemblyInfoInputs.cache
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.AssemblyInfo.cs
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.csproj.CoreCompileInputs.cache
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.dll
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\refint\Homeworks.BusinessLogic.Interface.dll
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.pdb
+C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\ref\Homeworks.BusinessLogic.Interface.dll

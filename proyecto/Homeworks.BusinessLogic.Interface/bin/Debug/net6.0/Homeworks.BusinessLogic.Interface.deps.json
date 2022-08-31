@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homeworks.BusinessLogic.Interface/1.0.0": {
+        "runtime": {
+          "Homeworks.BusinessLogic.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homeworks.BusinessLogic.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
