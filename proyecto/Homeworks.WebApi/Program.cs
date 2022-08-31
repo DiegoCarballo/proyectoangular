@@ -17,7 +17,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "ObligatorioDA2.HttpApi", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Homeworks.WebpApi", Version = "v1" });
 });
 
 var app = builder.Build();
@@ -26,7 +26,11 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+        options.RoutePrefix = string.Empty;
+    });
 }
 
 app.UseAuthorization();
@@ -34,7 +38,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
+app.UseSwagger();
 app.UseSwaggerUI(options =>
 {
     options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");

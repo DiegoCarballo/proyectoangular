@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {}
+    "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
+    "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
+        "projectUniqueName": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
         "projectName": "Homeworks.DataAccess.Interface",
-        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
-        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\obj\\",
+        "projectPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
+        "packagesPath": "C:\\Users\\Diego Carballo\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego Carballo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

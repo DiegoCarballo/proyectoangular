@@ -10,3 +10,15 @@ C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\D
 C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\refint\Homeworks.BusinessLogic.Interface.dll
 C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.pdb
 C:\Repositorios\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\ref\Homeworks.BusinessLogic.Interface.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\bin\Debug\net6.0\Homeworks.BusinessLogic.Interface.deps.json
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\bin\Debug\net6.0\Homeworks.BusinessLogic.Interface.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\bin\Debug\net6.0\Homeworks.BusinessLogic.Interface.pdb
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.csproj.AssemblyReference.cache
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.AssemblyInfoInputs.cache
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.AssemblyInfo.cs
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.csproj.CoreCompileInputs.cache
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\refint\Homeworks.BusinessLogic.Interface.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\Homeworks.BusinessLogic.Interface.pdb
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.BusinessLogic.Interface\obj\Debug\net6.0\ref\Homeworks.BusinessLogic.Interface.dll

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carballo_d\\.nuget\\packages\\": {}
+    "C:\\Users\\Diego Carballo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
+      "projectUniqueName": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
       "projectName": "Homeworks.Domain",
-      "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
-      "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\obj\\",
+      "projectPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
+      "packagesPath": "C:\\Users\\Diego Carballo\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Diego Carballo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -10,3 +10,15 @@ C:\Repositorios\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homew
 C:\Repositorios\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\refint\Homeworks.Domain.dll
 C:\Repositorios\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.pdb
 C:\Repositorios\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\ref\Homeworks.Domain.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\bin\Debug\net6.0\Homeworks.Domain.deps.json
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\bin\Debug\net6.0\Homeworks.Domain.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\bin\Debug\net6.0\Homeworks.Domain.pdb
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.csproj.AssemblyReference.cache
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.AssemblyInfoInputs.cache
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.AssemblyInfo.cs
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\refint\Homeworks.Domain.dll
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\Homeworks.Domain.pdb
+C:\Repos\proyectoandular\proyectoangular\proyecto\Homeworks.Domain\obj\Debug\net6.0\ref\Homeworks.Domain.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {}
+    "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
+    "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
+        "projectUniqueName": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
         "projectName": "Homeworks.DataAccess.Interface",
-        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
-        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\obj\\",
+        "projectPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj",
+        "packagesPath": "C:\\Users\\Diego Carballo\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego Carballo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -57,17 +57,17 @@
         }
       }
     },
-    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {
+    "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
+        "projectUniqueName": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
         "projectName": "Homeworks.DataAccess",
-        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess\\obj\\",
+        "projectPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Diego Carballo\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego Carballo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -79,11 +79,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
-                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj"
+              "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.DataAccess.Interface\\Homeworks.DataAccess.Interface.csproj"
               },
-              "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
-                "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj"
+              "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+                "projectPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj"
               }
             }
           }
@@ -131,17 +131,17 @@
         }
       }
     },
-    "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+    "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
+        "projectUniqueName": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
         "projectName": "Homeworks.Domain",
-        "projectPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
-        "packagesPath": "C:\\Users\\carballo_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\proyectoangular\\proyecto\\Homeworks.Domain\\obj\\",
+        "projectPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\Homeworks.Domain.csproj",
+        "packagesPath": "C:\\Users\\Diego Carballo\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\proyectoandular\\proyectoangular\\proyecto\\Homeworks.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carballo_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego Carballo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
